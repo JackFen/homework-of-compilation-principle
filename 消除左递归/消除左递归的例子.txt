@@ -1,0 +1,17 @@
+本例为书上p83消除一切左递归算法的例子
+S
+Q
+R
+stop
+a
+b
+c
+stop
+S Qc
+S c
+Q Rb
+Q b
+R Sa
+R a
+stop
+S

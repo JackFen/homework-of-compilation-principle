@@ -1,0 +1,24 @@
+本例为书上P72页的例4.5
+S
+A
+B
+C
+D
+stop
+a
+b
+c
+@
+stop
+S AB
+S bC
+A @
+A b
+B @
+B aD
+C AD
+C b
+D aS
+D c
+stop
+S

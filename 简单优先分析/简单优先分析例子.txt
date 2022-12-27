@@ -1,0 +1,16 @@
+该例子为书上的例5.2
+S
+A
+B
+stop
+a
+b
+(
+)
+stop
+S bAb
+A (B
+A a
+B Aa)
+stop
+S
